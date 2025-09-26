@@ -1,0 +1,7 @@
+streamlit
+pandas
+spacy
+pdfminer.six
+Pillow
+docx2txt
+sentence-transformers
