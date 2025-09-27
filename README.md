@@ -45,9 +45,9 @@ python -m spacy download en_core_web_sm
 streamlit run app.py
 🎥 Live Demo
 
-🔗 GitHub Repo: RESUMEANALYZER
+🔗 GitHub Repo: https://github.com/rahulyadav600/RESUMEANALYZER
 
-📹 Demo Video: Google Drive Link
+📹 Demo Video: https://drive.google.com/file/d/13fb96g4Y96oJ9MWRuF-eVZ3CXjt0VtE1/view
 
 👨‍💻 Team: Algorithm Avengers
 
